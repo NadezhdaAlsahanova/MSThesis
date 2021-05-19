@@ -1,3 +1,3 @@
 # MSThesis
 
-LinkReview: https://docs.google.com/document/d/1V3KB6QXrA7Yv3yGHu80cR2u_M0CDp_53BaFmasWaxdM/edit?usp=sharing
+LinkReview: https://www.notion.so/3d0a0c6911f748fcadee1ae082df0d17?v=006eb62f0a734cf691dbd0ff3908cc38
